@@ -1,0 +1,61 @@
+C:\Users\FR\Desktop\AMADA COMM\WeldCheckerLogger\bin\Debug\WeldCheckerLogger.exe.config
+C:\Users\FR\Desktop\AMADA COMM\WeldCheckerLogger\bin\Debug\WeldCheckerLogger.exe
+C:\Users\FR\Desktop\AMADA COMM\WeldCheckerLogger\bin\Debug\WeldCheckerLogger.pdb
+C:\Users\FR\Desktop\AMADA COMM\WeldCheckerLogger\bin\Debug\SimpleTCP.dll
+C:\Users\FR\Desktop\AMADA COMM\WeldCheckerLogger\obj\Debug\WeldCheckerLogger.Form1.resources
+C:\Users\FR\Desktop\AMADA COMM\WeldCheckerLogger\obj\Debug\WeldCheckerLogger.Properties.Resources.resources
+C:\Users\FR\Desktop\AMADA COMM\WeldCheckerLogger\obj\Debug\WeldCheckerLogger.csproj.GenerateResource.cache
+C:\Users\FR\Desktop\AMADA COMM\WeldCheckerLogger\obj\Debug\WeldCheckerLogger.csproj.CoreCompileInputs.cache
+C:\Users\FR\Desktop\AMADA COMM\WeldCheckerLogger\obj\Debug\WeldCheckerLogger.csproj.CopyComplete
+C:\Users\FR\Desktop\AMADA COMM\WeldCheckerLogger\obj\Debug\WeldCheckerLogger.exe
+C:\Users\FR\Desktop\AMADA COMM\WeldCheckerLogger\obj\Debug\WeldCheckerLogger.pdb
+C:\Users\FR\Desktop\AMADA COMM\WeldCheckerLogger\obj\Debug\WeldCheckerLogger.csproj.AssemblyReference.cache
+C:\Users\FR\Desktop\VF\AMADA COMM\WeldCheckerLogger\bin\Debug\WeldCheckerLogger.exe.config
+C:\Users\FR\Desktop\VF\AMADA COMM\WeldCheckerLogger\bin\Debug\WeldCheckerLogger.exe
+C:\Users\FR\Desktop\VF\AMADA COMM\WeldCheckerLogger\bin\Debug\WeldCheckerLogger.pdb
+C:\Users\FR\Desktop\VF\AMADA COMM\WeldCheckerLogger\bin\Debug\SimpleTCP.dll
+C:\Users\FR\Desktop\VF\AMADA COMM\WeldCheckerLogger\obj\Debug\WeldCheckerLogger.csproj.AssemblyReference.cache
+C:\Users\FR\Desktop\VF\AMADA COMM\WeldCheckerLogger\obj\Debug\WeldCheckerLogger.Form1.resources
+C:\Users\FR\Desktop\VF\AMADA COMM\WeldCheckerLogger\obj\Debug\WeldCheckerLogger.Properties.Resources.resources
+C:\Users\FR\Desktop\VF\AMADA COMM\WeldCheckerLogger\obj\Debug\WeldCheckerLogger.csproj.GenerateResource.cache
+C:\Users\FR\Desktop\VF\AMADA COMM\WeldCheckerLogger\obj\Debug\WeldCheckerLogger.csproj.CoreCompileInputs.cache
+C:\Users\FR\Desktop\VF\AMADA COMM\WeldCheckerLogger\obj\Debug\WeldCheckerLogger.csproj.CopyComplete
+C:\Users\FR\Desktop\VF\AMADA COMM\WeldCheckerLogger\obj\Debug\WeldCheckerLogger.exe
+C:\Users\FR\Desktop\VF\AMADA COMM\WeldCheckerLogger\obj\Debug\WeldCheckerLogger.pdb
+D:\LONG\DRC\WeldCheckerLogger\WeldCheckerLogger\bin\Debug\WeldCheckerLogger.exe.config
+D:\LONG\DRC\WeldCheckerLogger\WeldCheckerLogger\bin\Debug\WeldCheckerLogger.exe
+D:\LONG\DRC\WeldCheckerLogger\WeldCheckerLogger\bin\Debug\WeldCheckerLogger.pdb
+D:\LONG\DRC\WeldCheckerLogger\WeldCheckerLogger\bin\Debug\SimpleTCP.dll
+D:\LONG\DRC\WeldCheckerLogger\WeldCheckerLogger\obj\Debug\WeldCheckerLogger.csproj.AssemblyReference.cache
+D:\LONG\DRC\WeldCheckerLogger\WeldCheckerLogger\obj\Debug\WeldCheckerLogger.csproj.SuggestedBindingRedirects.cache
+D:\LONG\DRC\WeldCheckerLogger\WeldCheckerLogger\obj\Debug\WeldCheckerLogger.Form1.resources
+D:\LONG\DRC\WeldCheckerLogger\WeldCheckerLogger\obj\Debug\WeldCheckerLogger.Properties.Resources.resources
+D:\LONG\DRC\WeldCheckerLogger\WeldCheckerLogger\obj\Debug\WeldCheckerLogger.csproj.GenerateResource.cache
+D:\LONG\DRC\WeldCheckerLogger\WeldCheckerLogger\obj\Debug\WeldCheckerLogger.csproj.CoreCompileInputs.cache
+D:\LONG\DRC\WeldCheckerLogger\WeldCheckerLogger\obj\Debug\WeldCheckerLogger.csproj.CopyComplete
+D:\LONG\DRC\WeldCheckerLogger\WeldCheckerLogger\obj\Debug\WeldCheckerLogger.exe
+D:\LONG\DRC\WeldCheckerLogger\WeldCheckerLogger\obj\Debug\WeldCheckerLogger.pdb
+D:\LONG\DRC\WeldCheckerLogger\WeldCheckerLogger\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\LONG\DRC\WeldCheckerLogger\WeldCheckerLogger\bin\Debug\stdole.dll
+D:\LONG\DRC\WeldCheckerLogger\WeldCheckerLogger\bin\Debug\EPPlus.dll
+D:\LONG\DRC\WeldCheckerLogger\WeldCheckerLogger\bin\Debug\EPPlus.Interfaces.dll
+D:\LONG\DRC\WeldCheckerLogger\WeldCheckerLogger\bin\Debug\EPPlus.System.Drawing.dll
+D:\LONG\DRC\WeldCheckerLogger\WeldCheckerLogger\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\LONG\DRC\WeldCheckerLogger\WeldCheckerLogger\bin\Debug\EPPlus.xml
+D:\LONG\DRC\WeldCheckerLogger\WeldCheckerLogger\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\LONG\DRC\WeldCheckerLogger\WeldCheckerLogger\bin\Debug\BouncyCastle.Crypto.dll
+D:\LONG\DRC\WeldCheckerLogger\WeldCheckerLogger\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\LONG\DRC\WeldCheckerLogger\WeldCheckerLogger\bin\Debug\NPOI.dll
+D:\LONG\DRC\WeldCheckerLogger\WeldCheckerLogger\bin\Debug\NPOI.OOXML.dll
+D:\LONG\DRC\WeldCheckerLogger\WeldCheckerLogger\bin\Debug\NPOI.OpenXml4Net.dll
+D:\LONG\DRC\WeldCheckerLogger\WeldCheckerLogger\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\LONG\DRC\WeldCheckerLogger\WeldCheckerLogger\bin\Debug\BouncyCastle.Crypto.xml
+D:\LONG\DRC\WeldCheckerLogger\WeldCheckerLogger\bin\Debug\ICSharpCode.SharpZipLib.pdb
+D:\LONG\DRC\WeldCheckerLogger\WeldCheckerLogger\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\LONG\DRC\WeldCheckerLogger\WeldCheckerLogger\bin\Debug\NPOI.pdb
+D:\LONG\DRC\WeldCheckerLogger\WeldCheckerLogger\bin\Debug\NPOI.xml
+D:\LONG\DRC\WeldCheckerLogger\WeldCheckerLogger\bin\Debug\NPOI.OOXML.pdb
+D:\LONG\DRC\WeldCheckerLogger\WeldCheckerLogger\bin\Debug\NPOI.OOXML.xml
+D:\LONG\DRC\WeldCheckerLogger\WeldCheckerLogger\bin\Debug\NPOI.OpenXml4Net.pdb
+D:\LONG\DRC\WeldCheckerLogger\WeldCheckerLogger\bin\Debug\NPOI.OpenXml4Net.xml
+D:\LONG\DRC\WeldCheckerLogger\WeldCheckerLogger\bin\Debug\NPOI.OpenXmlFormats.pdb

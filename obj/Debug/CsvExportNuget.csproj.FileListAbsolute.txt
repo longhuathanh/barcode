@@ -1,0 +1,10 @@
+C:\Users\FR\Desktop\AMADA COMM\CsvExportNuget\bin\Debug\CsvExportNuget.exe.config
+C:\Users\FR\Desktop\AMADA COMM\CsvExportNuget\bin\Debug\CsvExportNuget.exe
+C:\Users\FR\Desktop\AMADA COMM\CsvExportNuget\bin\Debug\CsvExportNuget.pdb
+C:\Users\FR\Desktop\AMADA COMM\CsvExportNuget\obj\Debug\CsvExportNuget.csproj.AssemblyReference.cache
+C:\Users\FR\Desktop\AMADA COMM\CsvExportNuget\obj\Debug\CsvExportNuget.Form1.resources
+C:\Users\FR\Desktop\AMADA COMM\CsvExportNuget\obj\Debug\CsvExportNuget.Properties.Resources.resources
+C:\Users\FR\Desktop\AMADA COMM\CsvExportNuget\obj\Debug\CsvExportNuget.csproj.GenerateResource.cache
+C:\Users\FR\Desktop\AMADA COMM\CsvExportNuget\obj\Debug\CsvExportNuget.csproj.CoreCompileInputs.cache
+C:\Users\FR\Desktop\AMADA COMM\CsvExportNuget\obj\Debug\CsvExportNuget.exe
+C:\Users\FR\Desktop\AMADA COMM\CsvExportNuget\obj\Debug\CsvExportNuget.pdb
